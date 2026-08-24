@@ -1,4 +1,4 @@
-#ML 
+#Machine Learning
 # 🚀 FreeLLMAPI + Docker + VS Code + Cline Complete Setup Guide (Windows)
 
 > Complete end-to-end setup guide from scratch.
